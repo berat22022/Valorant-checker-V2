@@ -83,7 +83,7 @@ def checker():
     choice = input("[>] ")
     choice = int(choice)
     if choice == 5:
-        print("DC: https://discord.gg/heJ2dzpYPZ")
+        print("DC: https://discord.gg/U6wVEcSHW3")
         print("Option 1: is a static gui on the screen ")
         print("Otption 2 is dynamic lol idk how to describe")
         print("Option 3 is a dynamic full caputure checker")
